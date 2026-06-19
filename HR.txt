@@ -1,0 +1,56 @@
+Intro :=
+"Hello! My name is Piyush Pawar. I’m in my early twenties, originally from Mumbai, and currently living in Sewri. I am graduated with degree in BscIt from S.L.S. College and also pursued a Frontend Developer certification from NetTech. Over the past few months, I have gained solid experience in JavaScript, along with HTML, CSS, React, Redux, and Tailwind. I also have some backend knowledge with Java and MySQL. I’ve worked on several React projects, including creating clones of popular websites like Myntra, Zepto, and Swiggy. I’m eager to apply my knowledge in real-world projects and continue learning and growing as a developer."
+
+why should we hire you?
+Sir/Maam , I believe i am a great fit for this role because i have fundamental knowledge about frontend technologies. I'm self motivated person and give my 100% to any task that is give to me. That's why I've been able to do good with my academics.
+and surely i will do the same for any projects that give to me in the company. I also work well both as an individual contributor and a team members. Overall i believe i can contributes a lot to the organization with my skill and will.
+
+Strengths:
+“One of my key strengths is my ability to learn quickly. I adapt to new technologies and environments with ease, which allows me to stay current and effective in my role. I’m also calm under pressure, which helps me handle challenging situations and maintain productivity. Additionally, I’m consistent and detail-oriented, ensuring that I deliver high-quality work on time. I’m also a strong communicator and enjoy collaborating with team members to achieve common goals
+
+Weaknesses:
+“One area I’ve been working on is my speaking pace. I tend to speak quickly, which can sometimes make it challenging for others to follow. To improve, I’ve been practicing speaking more deliberately and have been using techniques such as recording myself and getting feedback. Over time, I’ve seen significant improvement.”
+
+What makes me stand out from other candidates ?	
+I’m a fast learner and I actively work on improving my skills by building real projects, not just learning theory.
+I stay calm under pressure and try to complete my work within deadlines while maintaining quality.
+Another thing that differentiates me is my willingness to take feedback positively and improve myself continuously.
+I may not know everything, but I’m always ready to learn, adapt, and give my best effort to grow along with the organization.”
+
+how do you handle challenging situations?
+“I handle challenging situations by first staying calm and understanding the problem clearly.
+I break the situation into smaller parts and focus on finding a practical solution instead of panicking.
+If needed, I take guidance from seniors or team members because I believe collaboration leads to better results.
+I also see challenges as learning opportunities, and after resolving them, I reflect on what I learned so I can handle similar situations better in the future.”
+
+how do you handle conflict with coworkers?
+During a college project , my team disagreed on whether to use python or java . noticing tensions, i encouraged an open discussion on he pros and cons of each.
+we ultimately chose python for faster implementation, completed project successfully , and improve our teamwork.
+this process taught me the value of staying clam, listening actively , and making logical decisions.
+
+what is your ideal work environment?
+“My ideal work environment is one that encourages learning, teamwork, and open communication.
+I perform best in a place where team members support each other, share knowledge, and work together toward common goals.
+I also value an environment where feedback is appreciated, as it helps me improve both personally and professionally.
+A positive and disciplined work culture motivates me to stay focused, productive, and committed to delivering quality work.”
+
+what motivates you?
+“What motivates me the most is learning new things and seeing my improvement over time.
+When I work on tasks or projects i remember spending horse to solve the problems/issue, and when i finally fixed it ,the sense of accomplishment was incredible.
+I’m also motivated by constructive feedback, as it helps me understand my strengths and areas of improvement.
+
+where do you see yourself in next 5 years?
+sir,Maam in the first 1-2 years i would like to learn and acquires new skills so that i could become a full stack developer and in the next 2-3 years i would like to take more challenges and responsibility upon my shoulders so that i could lead some projects and showcase my leadership skills in front of your company 
+
+what are your salary expectation?
+“As a fresher, my main focus is learning and gaining real-world experience.
+However, based on my educational background, certifications, and fundamental technical knowledge, I am expecting a salary in the range of ₹15,000 to ₹20,000 per month.”
+ma’am, I understand, having said that i have worked really heard during my certification course over the months, whatever you company requirements are i am able to fulfill the sam so being fresher at least i deserve 18k in hand.
+ma’am, I understand what you are saying but to be honest with you i don't wont to think about money which i am working for year company and the salary what i am asking for is very reasonable and it will fulfill my basic needs. so i would like to request you to close the deal on 14k in hand.
+Yes ma’am, I understand the review period. During this initial phase, I would be comfortable with a salary of around ₹12,000, as it will help me manage my basic stability. After the review period, based on my performance, I would expect the salary to be revised accordingly.
+
+class ?
+“I understand and respect the company working hours from 11 to 7.
+I would like to inform you that between 5 to 7 PM, I currently attend a Full Stack Development class to strengthen my skills.
+I want to assure you that my work responsibilities will always be my priority. If required, I’m open to adjusting my learning schedule, completing tasks in advance, or coordinating in a way that does not affect my productivity or team commitments.”
+
